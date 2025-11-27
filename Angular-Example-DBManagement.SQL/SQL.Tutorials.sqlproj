@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>LibraryDBManagement.SQL</Name>
+    <Name>SQL.Tutorials</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{a103fa2f-5f25-4633-8ebe-7671f9ec6a9d}</ProjectGuid>

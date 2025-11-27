@@ -8,11 +8,11 @@ namespace ASP.NETCore.ArticlesWebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController] 
-    public class TutorialController : ControllerBase
+    public class TutorialsController : ControllerBase
     {
         private readonly TutorialsManagementApiContext _context;
 
-        public TutorialController(TutorialsManagementApiContext context)
+        public TutorialsController(TutorialsManagementApiContext context)
         {
             _context = context;
         }
