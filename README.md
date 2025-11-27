@@ -6,3 +6,39 @@ Tutorial Application in that:
 - Each Tutorial has id, title, description, published status.
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
+
+## Additional info
+
+Install NVM (exe to download)
+
+https://github.com/coreybutler/nvm-windows/releases
+
+Install Node.js (exe to download)
+
+https://nodejs.org/dist/
+
+https://nodejs.org/en/about/previous-releases
+
+nvm install node
+
+nvm use 25.2.1
+
+nvm install --lts
+
+nvm install <version> # like: 14.17.6
+
+nvm -v
+
+nvm off
+
+nvm on
+
+nvm install lts 64
+
+nvm use newest
+
+nvm list
+
+nvm use
+
+node --version
