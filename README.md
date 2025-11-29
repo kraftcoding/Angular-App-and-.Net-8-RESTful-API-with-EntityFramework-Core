@@ -11,7 +11,8 @@ Tutorial Application in that:
 
 Disable same origin policy in Chrome
 
-C:\Program Files\Google\Chrome\Application>chrome.exe --disable-web-security --user-data-dir="C:\Program Files\Google\Chrome\Application"
+cd "C:\Program Files\Google\Chrome\Application"
+chrome.exe --disable-web-security --user-data-dir="C:\Program Files\Google\Chrome\Application"
 
 Install NVM (exe to download)
 
