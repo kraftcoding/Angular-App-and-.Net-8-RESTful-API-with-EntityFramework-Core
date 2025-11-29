@@ -48,3 +48,11 @@ nvm list
 nvm use
 
 node --version
+
+To install and use a especific version of Node:
+
+nvm install 22.21.1
+
+nvm use 22.21.1
+
+nvm ls
