@@ -1,6 +1,6 @@
 # Angular App and .NET 8 RESTful API with EntityFramework Core
 
-Angular 16 CRUD example to consume Rest APIs, display, modify & search data. Includes Visual Studio back-end API and SQL DAta model projects.
+Angular 16 CRUD example to consume Rest API (add, delete, display, modify & search data) implementing Jwt-Bearer token-based authentication. Includes Visual Studio back-end API and SQL DAta model projects.
 
 Tutorial Application in that:
 - Each Tutorial has id, title, description, published status.
